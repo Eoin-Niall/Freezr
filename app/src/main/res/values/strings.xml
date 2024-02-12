@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Freezr</string>
+    <string name="new_food_button">Add a new food</string>
+    <string name="form_title">Enter the food name here</string>
+    <string name="form_expiration_date">Enter the approx. expiration date of the food here</string>
+    <string name="form_notifications_checkbox">Notifications</string>
+    <string name="form_submit_button">Submit</string>
+</resources>
